@@ -1,0 +1,4 @@
+Error: Input row cannot be parsed due to missing information.
+ERROR: In file covidStatistics.csv. Missing attribute. File is not converted to HTML.
+Error: Input row cannot be parsed due to missing information.
+WARNING: In filecovidStatistics.csv line 3 is not converted to HTML: missing data: Age group
